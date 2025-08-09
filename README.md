@@ -5,9 +5,7 @@
 Full Stack Developer | Computer Science Student
 Passionate about building scalable, modern web applications and crafting tools for automation & efficiency. Always learning, innovating, and pushing the limits of what’s possible.
 
-<div style="width:100% ; height:200px; backgroundColor:red">
- <img src="">
-</div>
+<img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:300px;">
 
 ## Programming Language and Tools
 
