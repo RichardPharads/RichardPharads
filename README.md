@@ -1,9 +1,13 @@
 # Richard Parado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
-Full Stack Developer | Computer Science Student
-Passionate about building scalable, modern web applications and crafting tools for automation & efficiency. Always learning, innovating, and pushing the limits of what’s possible.
+<p style="color:gray;">
+<span style="color-white; font-weight:"bold">Full Stack Developer</span> | <span style="color-white ; font-weight:"bold"">Computer Science Student</span>
+Passionate about building scalable, modern web applications
+and crafting tools for automation & efficiency.
+Always learning, innovating, and pushing the limits of what’s possible.
+</p>
 
 
 
@@ -40,10 +44,11 @@ Passionate about building scalable, modern web applications and crafting tools f
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true)
 
-##Current Working with
+## Current Working on
 ### Arcade Thesis – Arcade Game ICCT
 
-A dynamic arcade-style game built with Python—designed for immersive gameplay and real-time interactions using Ultralytics water bottles Detections.
+A dynamic arcade-style game built with Python—designed for immersive gameplay 
+and real-time interactions using Ultralytics water bottles Detections.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/RichardPharads/ArcadeThesis?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/RichardPharads/ArcadeThesis?style=flat-square)
