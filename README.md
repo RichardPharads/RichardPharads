@@ -8,11 +8,13 @@ A dynamic arcade-style game built with Python—designed for immersive gameplay 
 ![GitHub Repo stars](https://img.shields.io/github/stars/RichardPharads/ArcadeThesis?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/RichardPharads/ArcadeThesis?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/RichardPharads/ArcadeThesis?style=flat-square)
-### Programming Language and Tools
+<br>
+## Programming Language and Tools
+<br>
+<br>
 <div>
  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width:60px; height:auto;" />
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" style="width:60px; height:auto;" />
@@ -21,14 +23,16 @@ A dynamic arcade-style game built with Python—designed for immersive gameplay 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:60px; height:auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:60px; height:auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:60px; height:auto;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  style="width:60px; height:auto;" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="width:60px; height:auto;" />
+  <i class="devicon-reactrouter-plain colored"  style="width:60px; height:auto;"></i>
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:60px; height:auto;" />
 </div>
 
