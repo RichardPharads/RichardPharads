@@ -1,5 +1,5 @@
 # Richard Parado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=54&duration=5000&color=d000ff&center=true&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&color=d000ff&center=true&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
 Full Stack Developer | Computer Science Student
