@@ -1,4 +1,6 @@
-d# Hello this is richard
+# Richard Parado
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C0FF&center=true&vCenter=true&lines=Hello+World!;I+am+Richard;Full+Stack+Developer)](https://git.io/typing-svg)
+
 
 # Arcade Thesis – Arcade Game ICCT
 
@@ -38,11 +40,6 @@ A dynamic arcade-style game built with Python—designed for immersive gameplay 
 <br>
 
 ---
-## Current Stats ![Alt Text](https://cdn-icons-png.flaticon.com/128/8241/8241590.png)
+## My Stats <img src="https://cdn-icons-png.flaticon.com/128/8241/8241590.png" width="20px" alt="logo" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true)
-
-
-##  Demo / Screenshot
-*(Include a screenshot or animated GIF showcasing gameplay)*
-```md
-![Gameplay Demo](./demo.gif)
