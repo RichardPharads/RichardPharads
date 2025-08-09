@@ -3,7 +3,7 @@
 
 ## About Me
 Full Stack Developer | Computer Science Student
-Passionate about building scalable, modern web applications and crafting tools for automation & efficiency.<br> Always learning, innovating, and pushing the limits of what’s possible.
+Passionate about building scalable, <br>  modern web applications and crafting tools for automation & efficiency.<br> Always learning, innovating, and pushing the limits of what’s possible.
 
 <img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:300px;">
 
