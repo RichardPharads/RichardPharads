@@ -1,25 +1,23 @@
 # Richard Parado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
-<p style="color:gray;">
-<span style="color-white; font-weight:"bold">Full Stack Developer</span> | <span style="color-white ; font-weight:"bold"">Computer Science Student</span>
-Passionate about building scalable, modern web applications
-and crafting tools for automation & efficiency.
-Always learning, innovating, and pushing the limits of what’s possible.
-</p>
+Full Stack Developer | Computer Science Student
+Passionate about building scalable, modern web applications and crafting tools for automation & efficiency. Always learning, innovating, and pushing the limits of what’s possible.
 
-
+<div style="width:100% ; height:200px; backgroundColor:red">
+ <img src="">
+</div>
 
 ## Programming Language and Tools
 
 <div>
- <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+ <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width:60px; height:auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" style="width:60px; height:auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="width:60px; height:auto;" />
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="width:60px; height:auto;" />
+   <i class="devicon-tailwindcss-original colored " style="width:60px; height:auto;"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" style="width:60px; height:auto;" />
@@ -33,6 +31,12 @@ Always learning, innovating, and pushing the limits of what’s possible.
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="width:60px; height:auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="width:60px; height:auto;" />
   <i class="devicon-reactrouter-plain colored"  style="width:60px; height:auto;"></i>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="width:60px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" style="width:60px; height:auto;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="width:60px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"  style="width:60px; height:auto;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="width:60px; height:auto;" />
+
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:60px; height:auto;" />
 </div>
@@ -44,11 +48,10 @@ Always learning, innovating, and pushing the limits of what’s possible.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true)
 
-## Current Working on
+##Current Working with
 ### Arcade Thesis – Arcade Game ICCT
 
-A dynamic arcade-style game built with Python—designed for immersive gameplay 
-and real-time interactions using Ultralytics water bottles Detections.
+A dynamic arcade-style game built with Python—designed for immersive gameplay and real-time interactions using Ultralytics water bottles Detections.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/RichardPharads/ArcadeThesis?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/RichardPharads/ArcadeThesis?style=flat-square)
