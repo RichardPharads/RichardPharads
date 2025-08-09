@@ -1,16 +1,12 @@
 # Richard Parado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=d000ff&center=true&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
+
+## About Me
+Full Stack Developer | Computer Science Student
+Passionate about building scalable, modern web applications and crafting tools for automation & efficiency. Always learning, innovating, and pushing the limits of what’s possible.
 
 
-# Arcade Thesis – Arcade Game ICCT
 
-A dynamic arcade-style game built with Python—designed for immersive gameplay and real-time interactions.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/RichardPharads/ArcadeThesis?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/RichardPharads/ArcadeThesis?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/RichardPharads/ArcadeThesis?style=flat-square)
-<br>
----
 ## Programming Language and Tools
 
 <div>
@@ -43,3 +39,14 @@ A dynamic arcade-style game built with Python—designed for immersive gameplay 
 ## My Stats <img src="https://cdn-icons-png.flaticon.com/128/8241/8241590.png" width="20px" alt="logo" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true)
+
+##Current Working with
+### Arcade Thesis – Arcade Game ICCT
+
+A dynamic arcade-style game built with Python—designed for immersive gameplay and real-time interactions using Ultralytics water bottles Detections.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/RichardPharads/ArcadeThesis?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/RichardPharads/ArcadeThesis?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/RichardPharads/ArcadeThesis?style=flat-square)
+<br>
+---
