@@ -1,5 +1,5 @@
 # Richard Parado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C0FF&center=true&vCenter=true&lines=Hello+World!;I+am+Richard;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=d000ff&center=true&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 # Arcade Thesis – Arcade Game ICCT
