@@ -1,5 +1,5 @@
 # Richard Parado
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=54&duration=5000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=54&duration=5000&color=d000ff&center=true&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
 Full Stack Developer | Computer Science Student
@@ -48,7 +48,7 @@ Passionate about building scalable, modern web applications and crafting tools f
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPharads&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RichardPharads&theme=tokyonight&hide_border=true)
 
-##Current Working with
+## Currently Working with
 ### Arcade Thesis – Arcade Game ICCT
 
 A dynamic arcade-style game built with Python—designed for immersive gameplay and real-time interactions using Ultralytics water bottles Detections.
