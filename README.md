@@ -1,5 +1,4 @@
 d# Hello this is richard
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true)
 
 # Arcade Thesis – Arcade Game ICCT
 
@@ -9,9 +8,9 @@ A dynamic arcade-style game built with Python—designed for immersive gameplay 
 ![GitHub forks](https://img.shields.io/github/forks/RichardPharads/ArcadeThesis?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/RichardPharads/ArcadeThesis?style=flat-square)
 <br>
+---
 ## Programming Language and Tools
-<br>
-<br>
+
 <div>
  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width:60px; height:auto;" />
@@ -39,6 +38,9 @@ A dynamic arcade-style game built with Python—designed for immersive gameplay 
 <br>
 
 ---
+## Current Stats ![Alt Text](https://cdn-icons-png.flaticon.com/128/8241/8241590.png)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true)
+
 
 ##  Demo / Screenshot
 *(Include a screenshot or animated GIF showcasing gameplay)*
