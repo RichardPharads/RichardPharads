@@ -1,17 +1,18 @@
 # Richard Parado
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
-## About Me
-
 <img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:auto;">
-
+<br>
 <p style="padding:20px 0px;">
 <span style="font-weight:bold;">Full Stack Developer</span> |<bold> Computer Science Student</bold>
 Passionate about building scalable, <br>  modern web applications and crafting tools for automation & efficiency.<br> Always learning, innovating, and pushing the limits of what’s possible.
 </p>
 
+<br>
+
 ## Programming Language and Tools
 
+<br>
 <div>
  <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width:60px; height:auto;" />
