@@ -3,11 +3,13 @@
 
 ## About Me
 
-<img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:300px;">
+<img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:auto;">
+
 <p style="padding:20px 0px;">
-Full Stack Developer | Computer Science Student
+<span style="font-weight:bold;">Full Stack Developer</span> |<bold> Computer Science Student</bold>
 Passionate about building scalable, <br>  modern web applications and crafting tools for automation & efficiency.<br> Always learning, innovating, and pushing the limits of what’s possible.
 </p>
+
 ## Programming Language and Tools
 
 <div>
