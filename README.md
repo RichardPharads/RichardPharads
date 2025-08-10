@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=d000ff&center=false&vCenter=false&lines=Welcome+to+my+Github+Profile!;I+am+Richard+Parado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
+
+<img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:300px;">
 <p style="padding:20px 0px;">
 Full Stack Developer | Computer Science Student
 Passionate about building scalable, <br>  modern web applications and crafting tools for automation & efficiency.<br> Always learning, innovating, and pushing the limits of what’s possible.
 </p>
-<img src="https://github.com/RichardPharads/RichardPharads/blob/main/background.jpg" style="width:100%; height:300px;">
-
 ## Programming Language and Tools
 
 <div>
