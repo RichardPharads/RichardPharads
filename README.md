@@ -47,10 +47,11 @@ Passionate about building scalable, <br>  modern web applications and crafting t
 
 ---
 ## My Stats <img src="https://cdn-icons-png.flaticon.com/128/8241/8241590.png" width="20px" alt="logo" />
-![Richard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardPharads&theme=tokyo-night)
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardPharads&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPharads&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RichardPharads&theme=tokyonight&hide_border=true)
+![Richard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardPharads&theme=tokyo-night)
+
 
 ## Currently Working with
 ### Arcade Thesis – Arcade Game ICCT
